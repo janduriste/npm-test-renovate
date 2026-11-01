@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "lodash": "4.18.1",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "express": "4.16.0",
     "axios": "^1.6.8",
     "@googlemaps/google-maps-services-js": "^3.4.2",
