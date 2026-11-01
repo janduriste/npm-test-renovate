@@ -21,6 +21,10 @@
     {
       "matchManagers": ["dockerfile"],
       "labels": ["docker"]
+    },
+    {
+      "matchDatasources": ["docker"],
+      "matchUpdateTypes": ["digest"]
     }
   ]
 }
