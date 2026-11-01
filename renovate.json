@@ -18,7 +18,8 @@
       "managerFilePatterns": ["/(^|/)Dockerfile$/"],
       "matchStrings": [
         "# renovate: datasource=docker depName=(?<depName>\\S+)\\s+ARG \\w+=(?<currentValue>\\S+)"
-      ]
+      ],
+      "datasourceTemplate": "docker"
     }
   ],
   "packageRules": [
