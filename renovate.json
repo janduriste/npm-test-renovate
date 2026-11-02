@@ -29,7 +29,7 @@
     },
     {
       "matchManagers": ["dockerfile"],
-      "labels": ["docker"]
+      "pinDigests": false
     },
     {
       "matchDatasources": ["docker"],
