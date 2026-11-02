@@ -23,7 +23,7 @@
     "xlsx": "^0.18.5",
     "csv-parse": "^5.5.6",
     "@types/ejs": "^3.1.5",
-    "ejs": "^3.1.10",
+    "ejs": "^7.0.0",
     "@azure/msal-node": "^2.10.0",
     "@smithy/types": "4.5.0",
     "cronstrue": "^2.47.0",
