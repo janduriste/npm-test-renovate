@@ -1,8 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:recommended",
-    "docker:pinDigests"
+    "config:recommended"
   ],
   "dependencyDashboard": true,
   "vulnerabilityAlerts": {
@@ -34,8 +33,7 @@
     },
     {
       "matchDatasources": ["docker"],
-      "matchUpdateTypes": ["digest"],
-      "schedule": ["before 5am on monday"]
+      "pinDigests": true
     },
     {
       "matchDatasources": ["docker"],
