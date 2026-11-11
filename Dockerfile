@@ -1,4 +1,4 @@
-FROM node:22.22.2-slim
+FROM node:22.23.5-slim
 WORKDIR /app
 COPY package*.json ./
 RUN npm ci
