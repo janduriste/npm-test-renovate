@@ -4,7 +4,7 @@
   "dependencies": {
     "axios": "^1.6.8",
     "@googlemaps/google-maps-services-js": "^3.4.2",
-    "@googlemaps/routing": "^2.2.0",
+    "@googlemaps/routing": "^3.0.0",
     "axios": "^1.13.6",
     "xlsx": "^0.18.5",
     "@dropbox/sign": "^1.10.0",
