@@ -1,5 +1,5 @@
 ARG NODE_VERSION=node:26.13.1-alpine
-ARG NGINX_VERSION=nginx:1.31.9-alpine
+ARG NGINX_VERSION=nginx:stable-alpine3.19
 
 FROM $NODE_VERSION as builder
 ARG env
