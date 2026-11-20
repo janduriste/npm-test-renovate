@@ -35,7 +35,7 @@
     "firebase-admin": "^14.5.0",
     "@smithy/types": "4.5.0",
     "axios": "^1.6.7",
-    "cronstrue": "^2.47.0",
+    "cronstrue": "^3.0.0",
     "playwright": "1.52.0",
     "playwright-core": "1.52.0",
     "playwright": "1.52.0",
