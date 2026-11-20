@@ -1,4 +1,4 @@
-ARG NODE_VERSION=node:22.23.4-alpine
+ARG NODE_VERSION=node:26.13.1-alpine
 ARG NGINX_VERSION=nginx:1.23.1-alpine
 
 FROM $NODE_VERSION as builder
